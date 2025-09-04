@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mircosoft Azure, NLP, and Large language models**
 
-- 👨‍💻 My work on my games are available on instagram [https://www.instagram.com/turbocollider?utm_source=ig_web_button_share_sheet&igsh=MXJqbDJvNzhjNHFnYg==](https://www.instagram.com/turbocollider?utm_source=ig_web_button_share_sheet&igsh=MXJqbDJvNzhjNHFnYg==)
+- 👨‍💻 I share updates and progress on my games are available on instagram [https://www.instagram.com/turbocollider?utm_source=ig_web_button_share_sheet&igsh=MXJqbDJvNzhjNHFnYg==](https://www.instagram.com/turbocollider?utm_source=ig_web_button_share_sheet&igsh=MXJqbDJvNzhjNHFnYg==)
 
 - 💬 Ask me about **Unity3d, Java, JavaScript and pythoon**
 
