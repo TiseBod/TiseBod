@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Tise Bodunrin</h1>
+<h1 align="center">Hey there, I'm Tise 👋</h1>
 <h3 align="center">Im a software and game developer!</h3>
 
 - 🔭 I’m currently working on a game called [SUPER JAM](https://github.com/TiseBod/SuperJam)
