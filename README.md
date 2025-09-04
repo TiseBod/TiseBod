@@ -1,13 +1,13 @@
 <h1 align="center">Hey there, I'm Tise Bodunrin</h1>
 <h3 align="center">Im a software and game developer!</h3>
 
-- 🔭 I’m currently working on [A game called SUPER JAM](https://github.com/TiseBod/SuperJam)
+- 🔭 I’m currently working on a game called [SUPER JAM](https://github.com/TiseBod/SuperJam)
 
 - 🌱 I’m currently learning **Mircosoft Azure, NLP, and Large language models**
 
-- 👨‍💻 I share updates and progress on my games are available on instagram [https://www.instagram.com/turbocollider?utm_source=ig_web_button_share_sheet&igsh=MXJqbDJvNzhjNHFnYg==](https://www.instagram.com/turbocollider?utm_source=ig_web_button_share_sheet&igsh=MXJqbDJvNzhjNHFnYg==)
+- 👨‍💻 My work on my games are available on instagram [https://www.instagram.com/turbocollider?utm_source=ig_web_button_share_sheet&igsh=MXJqbDJvNzhjNHFnYg==](https://www.instagram.com/turbocollider?utm_source=ig_web_button_share_sheet&igsh=MXJqbDJvNzhjNHFnYg==)
 
-- 💬 Ask me about **Unity3d, Java, JavaScript and python**
+- 💬 Ask me about **Unity3d, Java, JavaScript and Python**
 
 - 📫 How to reach me **tisebodunrin@gmail.com**
 
